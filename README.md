@@ -23,6 +23,7 @@ ___
     -   Manejo de horno.
     -   Manejo de máquinas (revolvedora y sobadora para masas).
 -   Minimarket.
+    -   Vendedor.
     -   Atención al público.
     -   Reposición de productos.
     -   Recepción de pedidos.
