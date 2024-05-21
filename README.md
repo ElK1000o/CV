@@ -82,16 +82,17 @@ ___
 
 **Santander Open Academy** (online)
 
-- Liderazgo (8 horas - 01/may/2024)
-- Escritura Efectiva y Persuasiva (8 horas - 30/abr/2024)
-- Comunicación Efectiva (8 horas - 28/abr/2024)
-- Excel (8 horas - 21/abr/2024)
-- Introducción a la Ciencia de Datos (8 horas - 14/feb/2024)
-- Big Data (8 horas - 30/ene/2024)
+- Liderazgo (01/may/2024)
+- Escritura Efectiva y Persuasiva (30/abr/2024)
+- Comunicación Efectiva (28/abr/2024)
+- Excel (21/abr/2024)
+- Introducción a la Ciencia de Datos (14/feb/2024)
+- Big Data (30/ene/2024)
 
 **Cisco Networking Academy** (online)
 
-- Introduction to Cibersecurity (30/abr/2024)
+- Introduction to Cybersecurity  (30/abr/2024)
+- Cybersecurity Essentials (16/may/2024)
 
 ___
 ### Competencias
