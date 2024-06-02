@@ -58,8 +58,10 @@ ___
 
 **Universidad Mayor, Santiago** Cursando actualmente.
 
--   Tipos/estructuras de datos y análisis.
--   Manejo de Python.
+-  Tipos/estructuras de datos y análisis.
+-  Python.
+-  $LaTeX$
+-  SQL.
 
 #### Sociología (mar 2020 - ago 2022)
 
@@ -67,7 +69,7 @@ ___
 
 -   Investigación.
 -   Análisis de datos estadísticos (principalmente encuestas) en R.
--   Manejo de markdown.
+-   Markdown.
 
 *Progresión en R y Python revisable desde [**mi perfil en GitHub**](https://github.com/ElK1000o "ElK1000o | GitHub").*
 
