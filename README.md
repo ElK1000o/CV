@@ -3,7 +3,7 @@
 ___
 ### Perfil
 
-Estudiante de 2° año en Data Science con experiencia en calidad y atención al cliente. Competente en roles administrativos y operativos en amasandería y minimarkets, incluyendo recepción de pedidos, control de calidad y gestión de inventario. Habilidades en R, Python y Excel. Comprometido con el aprendizaje continuo y el éxito de las organizaciones en que me desempeñe.
+Estudiante de 2° año en Data Science con experiencia en calidad y atención al cliente. Competente en roles administrativos y operativos en amasandería y minimarkets, incluyendo recepción de pedidos, control de calidad y gestión de inventario. Habilidades en R, Python, SQL y Excel. Comprometido con el aprendizaje continuo y el éxito de las organizaciones en que me desempeñe.
 
 ___
 ### Contacto
@@ -58,18 +58,18 @@ ___
 
 **Universidad Mayor, Santiago** Cursando actualmente.
 
--  Tipos/estructuras de datos y análisis.
--  Python.
+-  Tipos/estructuras de datos y análisis
+-  Python
 -  $LaTeX$
--  SQL.
+-  SQL
 
 #### Sociología (mar 2020 - ago 2022)
 
 **Universidad Alberto Hurtado, Santiago** Carrera incompleta.
 
--   Investigación.
--   Análisis de datos estadísticos (principalmente encuestas) en R.
--   Markdown.
+-   Investigación
+-   Análisis de datos estadísticos (principalmente encuestas) en R
+-   Markdown
 
 *Progresión en R y Python revisable desde [**mi perfil en GitHub**](https://github.com/ElK1000o "ElK1000o | GitHub").*
 
@@ -77,8 +77,8 @@ ___
 
 **Liceo Instituto Nacional, Santiago** (humanista)
 
-- Certificación A1 en idioma alemán.
-- Manejo de inglés básico.
+- Certificación A1 en idioma alemán
+- Manejo de inglés básico
 
 #### **Otros Cursos**
 
