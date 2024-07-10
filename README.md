@@ -95,6 +95,7 @@ ___
 
 - Introduction to Cybersecurity  (30/abr/2024)
 - Cybersecurity Essentials (16/may/2024)
+- Networking Essentials (02/jun/2024)
 
 ___
 ### Competencias
