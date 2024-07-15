@@ -3,7 +3,7 @@
 ___
 ### Perfil
 
-Estudiante de 2° año en Data Science con experiencia en calidad y atención al cliente. Competente en roles administrativos y operativos en amasandería y minimarkets, incluyendo recepción de pedidos, control de calidad y gestión de inventario. Habilidades en R, Python, SQL y Excel. Comprometido con el aprendizaje continuo y el éxito de las organizaciones en que me desempeñe.
+Estudiante de 2° año en Data Science con experiencia en calidad y atención al cliente. Competente en roles administrativos y operativos en minimarket, incluyendo recepción de pedidos, control de calidad y gestión de inventario. Habilidades en R, Python, SQL y Excel. Comprometido con el aprendizaje continuo y el éxito de las organizaciones en que me desempeñe.
 
 ___
 ### Contacto
@@ -20,19 +20,15 @@ ___
 **MIGAS, Santiago** (Part-Time)
 
 -   Amasandería.
-    -   Manejo de horno.
-    -   Manejo de máquinas (revolvedora y sobadora para masas).
 -   Minimarket.
     -   Vendedor.
-    -   Atención al público.
-    -   Reposición de productos.
     -   Recepción de pedidos.
-    -   Manejo de caja.
-    -   Manejo de bodega.
+    -   Manejo de caja y bodega.
 -   Parte administrativa.
     -   Cálculo de horas extras.
     -   Revisión de horarios.
     -   Cuentas del local.
+    -   Informes de ventas.
     -   Entrevistador/Reclutador.
 
 #### **Asistente de Calidad** (nov 2022) / **Analista de Calidad** (dic 2022 - feb 2023)
@@ -40,14 +36,13 @@ ___
 **ICB FOOD SERVICE, Santiago** (Tiempo Completo)
 
 -   Control de calidad.
--   Uso de SAP (descarga y búsqueda de ubicaciones de listado de productos).
+-   Uso de SAP.
 -   Manejo intermedio de excel.
 -   Recepción de pedidos (nacionales/importados).
 -   Creación/actualización de fichas técnicas de productos.
--   Etiquetado nutricional de productos importados por FEFO y FIFO (Etiquetado nutricional MINSAL).
+-   Etiquetado nutricional (según MINSAL) de productos importados por FEFO y FIFO.
 -   Reglamento Sanitario de Alimentos (RSA - Decreto 977/96 02.02.2021)
 -   Normativa HACCP.
--   Manejo de transpaleta eléctrica.
 
 ___
 ### Formación
@@ -71,14 +66,13 @@ ___
 -   Análisis de datos estadísticos (principalmente encuestas) en R
 -   Markdown
 
-*Progresión en R y Python revisable desde [**mi perfil en GitHub**](https://github.com/ElK1000o "ElK1000o | GitHub").*
+_**Progresión en R, Python y SQL revisable desde [**mi perfil en GitHub**](https://github.com/ElK1000o "ElK1000o | GitHub").**_
 
 #### **Eduación Básica y Media** (mar 2014 - dic 2019)
 
 **Liceo Instituto Nacional, Santiago** (humanista)
 
-- Certificación A1 en idioma alemán
-- Manejo de inglés básico
+- Certificación A1 en idioma alemán (Goethe Institut)
 
 #### **Otros Cursos**
 
@@ -96,6 +90,17 @@ ___
 - Introduction to Cybersecurity  (30/abr/2024)
 - Cybersecurity Essentials (16/may/2024)
 - Networking Essentials (02/jun/2024)
+
+___
+#### Habilidades
+
+Lenguajes de programación: Python, R, SQL
+
+Bases de datos: MySQL
+
+Excel: Nivel intermedio
+
+Análisis y Visualización de datos.
 
 ___
 ### Competencias
