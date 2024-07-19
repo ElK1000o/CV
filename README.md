@@ -96,6 +96,8 @@ ___
 
 Lenguajes de programación: Python, R, SQL
 
+Comandos básicos de git
+
 Bases de datos: MySQL
 
 Excel: Nivel intermedio
