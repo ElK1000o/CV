@@ -37,8 +37,8 @@ ___
 
 -   Control de calidad.
 -   Uso de SAP.
--   Manejo intermedio de excel.
--   Recepción de pedidos (nacionales/importados).
+-   Excel intermedio.
+-   Recepción de pedidos.
 -   Creación/actualización de fichas técnicas de productos.
 -   Etiquetado nutricional (según MINSAL) de productos importados por FEFO y FIFO.
 -   Reglamento Sanitario de Alimentos (RSA - Decreto 977/96 02.02.2021)
@@ -49,22 +49,9 @@ ___
 
 #### **Educación Superior**
 
-#### Data Science (mar 2023 - Presente)
+- Data Science (mar 2023 - Presente) | **Universidad Mayor, Santiago** Cursando actualmente.
 
-**Universidad Mayor, Santiago** Cursando actualmente.
-
--  Tipos/estructuras de datos y análisis
--  Python
--  $LaTeX$
--  SQL
-
-#### Sociología (mar 2020 - ago 2022)
-
-**Universidad Alberto Hurtado, Santiago** Carrera incompleta.
-
--   Investigación
--   Análisis de datos estadísticos (principalmente encuestas) en R
--   Markdown
+- Sociología (mar 2020 - ago 2022) | **Universidad Alberto Hurtado, Santiago** Carrera incompleta.
 
 _**Progresión en R, Python y SQL revisable desde [**mi perfil en GitHub**](https://github.com/ElK1000o "ElK1000o | GitHub").**_
 
