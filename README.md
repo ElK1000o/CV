@@ -3,7 +3,7 @@
 ___
 ### Perfil
 
-Estudiante de 2° año en Data Science con experiencia en calidad y atención al cliente. Competente en roles administrativos y operativos en minimarket, incluyendo recepción de pedidos, control de calidad y gestión de inventario. Habilidades en R, Python, SQL y Excel. Comprometido con el aprendizaje continuo y el éxito de las organizaciones en que me desempeñe.
+Estudiante de Data Science con experiencia en calidad y atención al cliente. Competente en roles administrativos y operativos en minimarket, incluyendo recepción de pedidos, control de calidad y gestión de inventario. Habilidades en R, Python, SQL y Excel. Comprometido con el aprendizaje continuo y el éxito de las organizaciones en que me desempeñe.
 
 ___
 ### Contacto
